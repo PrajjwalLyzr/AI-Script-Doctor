@@ -1,8 +1,8 @@
-# Complex Concept Simplifier by [Lyzr.ai](https://www.lyzr.ai/)
+# AI Script Doctor by [Lyzr.ai](https://www.lyzr.ai/)
 
 ![Lyzr Logo](./logo/lyzr-logo.png)
 
-The Complex Concept Simplifier app leverages Lyzr.ai to break down intricate ideas into clear, concise explanations tailored to various audiences, complete with relatable examples and analogies.
+The AI Script Doctor enhances your film and TV scripts by identifying plot holes and pacing issues, and offering suggestions for improvement, ensuring a compelling and cohesive narrative. Elevate your storytelling with intelligent script analysis with Lyzr's Automata.
 
 *Note: For this application to function properly in your local system, ensure that the required dependencies are installed and configured correctly, and make sure that you have your OpenAI API Key.*
 
